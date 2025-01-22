@@ -1,0 +1,4 @@
+fio: Иванов Иван Иванович
+countryName: RU
+organizationName: org1
+password: 12345
